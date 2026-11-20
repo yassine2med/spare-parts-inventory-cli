@@ -1,0 +1,8 @@
+sku,name,quantity,min_qty,location
+FLT-2025,HVAC filter 20x25x2,30,24,Shelf A1
+BLT-A42,Belt A-42,6,4,Shelf A2
+CNT-24V,Contactor 24V,2,3,Shelf B1
+LED-2X4,LED panel 2x4,40,10,Rack C
+FUS-15A,Fuse 15A,12,20,Bin D3
+DCL-001,Door closer,3,2,Shelf B2
+SEAL-P1,Pump seal kit,1,2,Shelf B3
