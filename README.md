@@ -2,6 +2,8 @@
 
 # spare-parts-inventory-cli
 
+[![CI](https://github.com/yassine2med/spare-parts-inventory-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/spare-parts-inventory-cli/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A storeroom needs to know three things: what is on the shelf, what was taken and when, and what to reorder. This command line tool keeps spare parts in one SQLite file, logs every movement and lists the parts that are at or below their minimum.
 
 ![Screenshot](docs/screenshot.png)
