@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="spare-parts-inventory-cli" width="100%"></p>
+
 # spare-parts-inventory-cli
 
 A storeroom needs to know three things: what is on the shelf, what was taken and when, and what to reorder. This command line tool keeps spare parts in one SQLite file, logs every movement and lists the parts that are at or below their minimum.
